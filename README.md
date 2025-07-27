@@ -33,16 +33,10 @@
     <img src="https://skillicons.dev/icons?i=cs,css,html,django,flask,dotnet,react,js,electron,express,java,materialui,nextjs,py" />
   </a>
 </p>
-<h3 align="left">Databases - Services:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=turso,xata" />
-  </a>
-</p>
 <h3 align="left">Databases:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
+    <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite" />
   </a>
 </p>
 <h3 align="left">Javascript runtime environments:</h3>
