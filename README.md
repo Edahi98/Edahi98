@@ -11,9 +11,7 @@
 <!-- BREVE DESCRIPCION -->
 - 📚 I am currently studying at Universidad Tecnologica de Tecamac
 
-- 🌱 I am currently in the race **Software Design and Development**
-
-- 🏙 Creator of the [Devs Community](https://github.com/Devs-Com) organization
+- 🌱 I am currently in the race **Software Development and Management Engineering**
 
 - 📫 How to reach me **garciaedahi3822@gmail.com**
 
