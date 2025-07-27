@@ -31,6 +31,7 @@
 <h3 align="left">Javascript runtime environments:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
+
     <img src="https://skillicons.dev/icons?i=nodejs,deno" />
   </a>
 </p>
@@ -40,7 +41,7 @@
     <img src="https://skillicons.dev/icons?i=docker,git,github" />
   </a>
 </p>
-<h3 align="left">Current learning:</h3>
+<h3 align="left">Currently learning:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tauri,rust,tailwind,laravel,php" />
