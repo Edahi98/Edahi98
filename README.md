@@ -48,7 +48,7 @@
 <h3 align="left">Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker" />
+    <img src="https://skillicons.dev/icons?i=docker,git,github" />
   </a>
 </p>
 <h3 align="left">Current learning:</h3>
