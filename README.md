@@ -54,7 +54,7 @@
 <h3 align="left">Current learning:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,tauri,rust" />
+    <img src="https://skillicons.dev/icons?i=ts,tauri,rust,tailwind" />
   </a>
 </p>
 <!-- STATS Y LENGUAJES MAS USADOS -->
