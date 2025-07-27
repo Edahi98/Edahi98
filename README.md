@@ -30,7 +30,7 @@
 <h3 align="left">Languages, Libraries and Frameworks:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,cs,css,html,django,flask,dotnet,react,js,ts" />
+    <img src="https://skillicons.dev/icons?i=cs,css,html,django,flask,dotnet,react,js,electron,express,java,materialui,nextjs" />
   </a>
 </p>
 
