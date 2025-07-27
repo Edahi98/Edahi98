@@ -44,7 +44,7 @@ a>
 <h3 align="left">Currently learning:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tauri,rust,tailwind,laravel,php" />
+    <img src="https://skillicons.dev/icons?i=tauri,rust,tailwind,laravel,php,wasm" />
   </a>
 </p>
 
