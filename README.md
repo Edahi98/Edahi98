@@ -51,6 +51,12 @@
     <img src="https://skillicons.dev/icons?i=docker" />
   </a>
 </p>
+<h3 align="left">Current learning:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,tauri,rust" />
+  </a>
+</p>
 <!-- STATS Y LENGUAJES MAS USADOS -->
 <div style="display:grid;align-items:center;justify-content:center">
   <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=andermendoza&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
