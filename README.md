@@ -33,12 +33,19 @@
     <img src="https://skillicons.dev/icons?i=cs,css,html,django,flask,dotnet,react,js,electron,express,java,materialui,nextjs" />
   </a>
 </p>
+<h3 align="left">Databases - Services:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=turso,xata" />
+  </a>
+</p>
 <h3 align="left">Databases:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
   </a>
 </p>
+
 <!-- STATS Y LENGUAJES MAS USADOS -->
 <div style="display:grid;align-items:center;justify-content:center">
   <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=andermendoza&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
