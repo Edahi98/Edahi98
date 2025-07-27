@@ -30,7 +30,7 @@
 <h3 align="left">Languages, Libraries and Frameworks:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,css,html,django,flask,dotnet,react,js,electron,express,java,materialui,nextjs,py,sequelize,vite,webpack" />
+    <img src="https://skillicons.dev/icons?i=cs,css,html,django,flask,dotnet,react,js,electron,express,java,materialui,nextjs,py,sequelize,vite,webpack,ts" />
   </a>
 </p>
 <h3 align="left">Databases:</h3>
@@ -54,7 +54,7 @@
 <h3 align="left">Current learning:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,tauri,rust,tailwind,laravel,php" />
+    <img src="https://skillicons.dev/icons?i=tauri,rust,tailwind,laravel,php" />
   </a>
 </p>
 <!-- STATS Y LENGUAJES MAS USADOS -->
