@@ -36,7 +36,7 @@
 <h3 align="left">Databases:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,laravel" />
+    <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite" />
   </a>
 </p>
 <h3 align="left">Javascript runtime environments:</h3>
@@ -54,7 +54,7 @@
 <h3 align="left">Current learning:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,tauri,rust,tailwind" />
+    <img src="https://skillicons.dev/icons?i=ts,tauri,rust,tailwind,laravel" />
   </a>
 </p>
 <!-- STATS Y LENGUAJES MAS USADOS -->
