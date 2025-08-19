@@ -19,17 +19,12 @@
 <h3 align="left">Languages</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,css,html,java,py,ts" />
+    <img src="https://skillicons.dev/icons?i=cs,css,html,java,py,ts,js" />
   </a>
 </p>
 <
 </p>
-<h3 align="left">Javascript runtime environments:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,deno" />
-  </a>
-</p>
+<
 <h3 align="left">Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
