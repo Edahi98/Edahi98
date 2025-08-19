@@ -22,14 +22,6 @@
     <img src="https://skillicons.dev/icons?i=cs,css,html,java,py,ts,js" />
   </a>
 </p>
-<
-</p>
-<
-<h3 align="left">Tools:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,github" />
-  </a>
 </p>
 <h3 align="left">Currently learning:</h3>
 <p align="center">
