@@ -16,10 +16,10 @@
 - 📫 How to reach me **garciaedahi3822@gmail.com**
 
 <!-- LENGUAJES Y HERRAMIENTAS -->
-<h3 align="left">Languages, Libraries and Frameworks:</h3>
+<h3 align="left">Languages</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,css,html,django,flask,dotnet,react,js,electron,express,java,py,ts" />
+    <img src="https://skillicons.dev/icons?i=cs,css,html,java,py,ts" />
   </a>
 </p>
 <h3 align="left">Databases:</h3>
@@ -44,7 +44,7 @@ a>
 <h3 align="left">Currently learning:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tauri,rust,tailwind,laravel,php" />
+    <img src="https://skillicons.dev/icons?i=rust,tailwind" />
   </a>
 </p>
 
