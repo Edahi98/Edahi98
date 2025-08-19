@@ -22,12 +22,7 @@
     <img src="https://skillicons.dev/icons?i=cs,css,html,java,py,ts" />
   </a>
 </p>
-<h3 align="left">Databases:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite" />
-  </
-a>
+<
 </p>
 <h3 align="left">Javascript runtime environments:</h3>
 <p align="center">
@@ -44,7 +39,7 @@ a>
 <h3 align="left">Currently learning:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,tailwind" />
+    <img src="https://skillicons.dev/icons?i=kotlin" />
   </a>
 </p>
 
