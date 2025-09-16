@@ -8,12 +8,6 @@
 
 <h3 align="center">Hello, I am Edahi</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
-<!-- BREVE DESCRIPCION -->
-- 📚 I am currently studying at Universidad Tecnologica de Tecamac
-
-- 🌱 I am currently in the race **Software Development and Management Engineering**
-
-- 📫 How to reach me **garciaedahi3822@gmail.com**
 
 <!-- LENGUAJES Y HERRAMIENTAS -->
 <h3 align="left">Languages</h3>
@@ -26,7 +20,7 @@
 <h3 align="left">Currently learning:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin" />
+    <img src="https://skillicons.dev/icons?i=rust" />
   </a>
 </p>
 
