@@ -8,7 +8,11 @@
 
 ## 🧠 Sobre mí
 
-Me gusta meterme en la capa donde las cosas realmente se ejecutan: motores de datos en Rust + Python, editores visuales de escritorio y programas on-chain en Solana. Entre proyecto y proyecto también construyo sistemas web y minijuegos.
+Estudio Ingeniería en Desarrollo y Gestión de Software en la Universidad Tecnológica de Tecámac, pero soy autodidacta por convicción: me apasiona tomar desafíos que parecen imposibles y convertirlos en soluciones reales. Me gusta meterme en la capa donde las cosas realmente se ejecutan — motores de datos en Rust + Python, editores visuales de escritorio, automatización con IA local (Ollama, LangChain/LangGraph) y programas on-chain en Solana.
+
+- 🎓 En formación: Bootcamp Solana Blockchain (WEB3) — WayLearn Latinoamérica.
+- 🤝 Adaptabilidad, iniciativa y trabajo en equipo — construyendo tanto en solitario como en equipos de desarrollo.
+- 📍 Ecatepec, Estado de México.
 
 <br>
 
