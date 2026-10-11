@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300" role="img" aria-labelledby="t">
-  <title id="t">Habilidades: C#, Java, Python, TypeScript, JavaScript, Rust y LangChain. IA local: llama.cpp y Ollama.</title>
+  <title id="t">Habilidades: C#, Java, Python, TypeScript, JavaScript, Rust, LangChain y React. IA local: llama.cpp y Ollama.</title>
   <defs>
     <pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse">
       <circle cx="7" cy="7" r="1.4" fill="#ffffff" fill-opacity="0.09"/>
@@ -75,10 +75,11 @@
     <text x="381" y="171" class="blk" font-size="19" fill="#ffffff">LangChain</text>
     <text x="569" y="169" class="blk" font-size="10" letter-spacing="2" fill="#7ff0df" text-anchor="end">LLM</text>
   </g>
-  <g class="bar lock" style="animation-delay:.4s">
-    <polygon points="361,198 592,198 584,242 353,242" fill="none" stroke="#ffffff" stroke-opacity="0.35" stroke-dasharray="6 5"/>
-    <text x="381" y="227" class="blk" font-size="19" fill="#ffffff" fill-opacity="0.55">? ? ?</text>
-    <text x="569" y="225" class="blk" font-size="10" letter-spacing="2" fill="#ffffff" fill-opacity="0.6" text-anchor="end">SIGUIENTE</text>
+  <g class="bar" style="animation-delay:.4s">
+    <polygon points="361,198 592,198 584,242 353,242" fill="#0f0b33" stroke="#ffffff" stroke-opacity="0.18"/>
+    <polygon class="tab" points="361,198 371,198 363,242 353,242" fill="#61dafb" style="animation-delay:2.1s"/>
+    <text x="381" y="227" class="blk" font-size="19" fill="#ffffff">React</text>
+    <text x="569" y="225" class="blk" font-size="10" letter-spacing="2" fill="#a5ecff" text-anchor="end">INTERFAZ</text>
   </g>
 
   <!-- estallido de IA local -->
