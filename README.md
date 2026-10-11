@@ -2,7 +2,7 @@
 
 <img src="assets/hero.svg" width="100%" alt="Edahi Avila, construyendo soluciones reales. Noche nevada con flujo animado: reto, fallo con retorno al inicio, aprender y solución." />
 
-**Desarrollador autodidacta que convierte retos que parecen imposibles en software que se usa de verdad.**
+**Desarrollador junior y autodidacta que convierte retos que parecen imposibles en software que se usa de verdad.**
 
 [✉️ garciaedahi382@gmail.com](mailto:garciaedahi382@gmail.com) · [📦 Mis repositorios](https://github.com/Edahi98?tab=repositories)
 
@@ -51,8 +51,10 @@
 <h2 align="center"><img src="assets/ep3.svg" width="100%" alt="Episodio 3: Herramientas del taller" /></h2>
 
 <div align="center">
-<img src="assets/stack.svg" width="100%" alt="C#, CSS, HTML, Java, Python, TypeScript, JavaScript y Rust" />
+<img src="assets/stack.svg" width="100%" alt="Lenguajes: C#, CSS, HTML, Java, Python, TypeScript, JavaScript y Rust. IA local: llama.cpp y Ollama." />
 </div>
+
+En las soluciones que incluyen IA trabajo con **llama.cpp** y **Ollama**.
 
 <div align="center">
 <img src="assets/arsenal.svg" width="100%" alt="Arsenal: cristal para la claridad, hielo para la sangre fría, arena para reintentar, castillo para la arquitectura, fantasma para depurar, bruja para los hechizos, grimorio para documentar, katana para la precisión, oni para los bugs jefe, linterna para guiar al equipo, kitsune para la astucia y alas para despegar." />
