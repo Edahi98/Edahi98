@@ -1,0 +1,146 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 650" width="900" height="650" role="img" aria-labelledby="t d">
+  <title id="t">SECTIMonitor, proyecto destacado</title>
+  <desc id="d">Sistema de escritorio que vigila las gacetas del Periódico Oficial del Estado de México. Ocho capacidades: vigilancia automática, alertas inteligentes, lector y buscador, pregunta al documento, grafos de relaciones, generador de contenido, editor y pizarra, exporta todo. Motor de IA local, en la nube o híbrido.</desc>
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fbbf24" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#fbbf24" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#091a30"/>
+      <stop offset="1" stop-color="#060e1b"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .sans { font-family: Inter, "Segoe UI", system-ui, -apple-system, sans-serif; }
+    .lbl { font-size: 12px; font-weight: 700; letter-spacing: 3px; fill: #fbbf24; }
+    .ct { font-size: 14px; font-weight: 700; fill: #f1f5f9; }
+    .cd { font-size: 11.5px; fill: #8aa0b8; }
+    .chip { font-size: 11px; font-weight: 700; letter-spacing: 1px; text-anchor: middle; }
+    .bar { animation: pulse 3s ease-in-out infinite; }
+    @keyframes pulse { 0%, 100% { opacity: 0.55; } 50% { opacity: 1; } }
+  </style>
+
+  <rect width="900" height="650" rx="20" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="899" height="649" rx="19.5" fill="none" stroke="#14365a"/>
+
+  <g class="sans">
+    <text x="40" y="46" class="lbl">PROYECTO DESTACADO</text>
+    <rect x="232" y="42" width="628" height="1.5" fill="url(#gold)"/>
+
+    <text x="40" y="96" font-size="36" font-weight="800" fill="#ffffff">SECTIMonitor</text>
+    <text x="40" y="128" font-size="15" fill="#9fb3c8">Sistema integral de escritorio que revisa las gacetas del Periódico Oficial del Estado de México</text>
+    <text x="40" y="150" font-size="15" fill="#9fb3c8">y avisa cuando hay nuevas. Las convierte en presentaciones, infografías, resúmenes y diagramas.</text>
+
+    <text x="40" y="192" class="lbl">CAPACIDADES PRINCIPALES</text>
+    <rect x="296" y="188" width="564" height="1.5" fill="url(#gold)"/>
+
+    <!-- fila 1 -->
+    <g>
+      <rect x="40" y="206" width="193" height="144" rx="12" fill="#0c1a2e" stroke="#17304d"/>
+      <rect x="40" y="206" width="193" height="3" rx="1.5" fill="#14b8a6" class="bar"/>
+      <rect x="56" y="224" width="28" height="28" rx="8" fill="#14b8a6" fill-opacity="0.16"/>
+      <circle cx="70" cy="238" r="5" fill="none" stroke="#14b8a6" stroke-width="2"/>
+      <text x="56" y="280" class="ct">Vigilancia automática</text>
+      <text x="56" y="299" class="cd">Revisa las gacetas en el</text>
+      <text x="56" y="314" class="cd">rango de fechas que</text>
+      <text x="56" y="329" class="cd">configures, incluso en</text>
+      <text x="56" y="344" class="cd">segundo plano.</text>
+    </g>
+    <g>
+      <rect x="249" y="206" width="193" height="144" rx="12" fill="#0c1a2e" stroke="#17304d"/>
+      <rect x="249" y="206" width="193" height="3" rx="1.5" fill="#38bdf8" class="bar" style="animation-delay:.4s"/>
+      <rect x="265" y="224" width="28" height="28" rx="8" fill="#38bdf8" fill-opacity="0.16"/>
+      <path d="M279 231 l-6 9 h12 z" fill="#38bdf8"/>
+      <text x="265" y="280" class="ct">Alertas inteligentes</text>
+      <text x="265" y="299" class="cd">Aviso instantáneo cuando se</text>
+      <text x="265" y="314" class="cd">publica algo relacionado</text>
+      <text x="265" y="329" class="cd">con la Secretaría.</text>
+    </g>
+    <g>
+      <rect x="458" y="206" width="193" height="144" rx="12" fill="#0c1a2e" stroke="#17304d"/>
+      <rect x="458" y="206" width="193" height="3" rx="1.5" fill="#eab308" class="bar" style="animation-delay:.8s"/>
+      <rect x="474" y="224" width="28" height="28" rx="8" fill="#eab308" fill-opacity="0.16"/>
+      <rect x="482" y="231" width="12" height="14" rx="2" fill="none" stroke="#eab308" stroke-width="2"/>
+      <text x="474" y="280" class="ct">Lector y buscador</text>
+      <text x="474" y="299" class="cd">Navega, filtra por fecha,</text>
+      <text x="474" y="314" class="cd">previsualiza y descarga</text>
+      <text x="474" y="329" class="cd">cada publicación en PDF.</text>
+    </g>
+    <g>
+      <rect x="667" y="206" width="193" height="144" rx="12" fill="#0c1a2e" stroke="#17304d"/>
+      <rect x="667" y="206" width="193" height="3" rx="1.5" fill="#a78bfa" class="bar" style="animation-delay:1.2s"/>
+      <rect x="683" y="224" width="28" height="28" rx="8" fill="#a78bfa" fill-opacity="0.16"/>
+      <rect x="690" y="231" width="14" height="10" rx="4" fill="#a78bfa"/>
+      <text x="683" y="280" class="ct">Pregunta al documento</text>
+      <text x="683" y="299" class="cd">Chat con IA que responde</text>
+      <text x="683" y="314" class="cd">preguntas indicando la</text>
+      <text x="683" y="329" class="cd">fuente exacta del</text>
+      <text x="683" y="344" class="cd">documento.</text>
+    </g>
+
+    <!-- fila 2 -->
+    <g>
+      <rect x="40" y="366" width="193" height="144" rx="12" fill="#0c1a2e" stroke="#17304d"/>
+      <rect x="40" y="366" width="193" height="3" rx="1.5" fill="#f97316" class="bar" style="animation-delay:1.6s"/>
+      <rect x="56" y="384" width="28" height="28" rx="8" fill="#f97316" fill-opacity="0.16"/>
+      <circle cx="66" cy="398" r="6" fill="none" stroke="#f97316" stroke-width="2"/>
+      <circle cx="74" cy="398" r="6" fill="none" stroke="#f97316" stroke-width="2"/>
+      <text x="56" y="440" class="ct">Grafos de relaciones</text>
+      <text x="56" y="459" class="cd">Diagramas de Venn que</text>
+      <text x="56" y="474" class="cd">relacionan publicaciones</text>
+      <text x="56" y="489" class="cd">por temas y palabras</text>
+      <text x="56" y="504" class="cd">clave.</text>
+    </g>
+    <g>
+      <rect x="249" y="366" width="193" height="144" rx="12" fill="#0c1a2e" stroke="#17304d"/>
+      <rect x="249" y="366" width="193" height="3" rx="1.5" fill="#22c55e" class="bar" style="animation-delay:2s"/>
+      <rect x="265" y="384" width="28" height="28" rx="8" fill="#22c55e" fill-opacity="0.16"/>
+      <rect x="272" y="397" width="4" height="9" fill="#22c55e"/>
+      <rect x="278" y="391" width="4" height="15" fill="#22c55e"/>
+      <rect x="284" y="394" width="4" height="12" fill="#22c55e"/>
+      <text x="265" y="440" class="ct">Generador de contenido</text>
+      <text x="265" y="459" class="cd">Crea resúmenes,</text>
+      <text x="265" y="474" class="cd">presentaciones, infografías</text>
+      <text x="265" y="489" class="cd">y diagramas de flujo y</text>
+      <text x="265" y="504" class="cd">mapas conceptuales.</text>
+    </g>
+    <g>
+      <rect x="458" y="366" width="193" height="144" rx="12" fill="#0c1a2e" stroke="#17304d"/>
+      <rect x="458" y="366" width="193" height="3" rx="1.5" fill="#ef4444" class="bar" style="animation-delay:2.4s"/>
+      <rect x="474" y="384" width="28" height="28" rx="8" fill="#ef4444" fill-opacity="0.16"/>
+      <path d="M482 404 l12 -12" stroke="#ef4444" stroke-width="3" stroke-linecap="round"/>
+      <text x="474" y="440" class="ct">Editor y pizarra</text>
+      <text x="474" y="459" class="cd">Anota, subraya, dibuja y</text>
+      <text x="474" y="474" class="cd">arma grafos en una</text>
+      <text x="474" y="489" class="cd">pizarra libre.</text>
+    </g>
+    <g>
+      <rect x="667" y="366" width="193" height="144" rx="12" fill="#0c1a2e" stroke="#17304d"/>
+      <rect x="667" y="366" width="193" height="3" rx="1.5" fill="#3b82f6" class="bar" style="animation-delay:2.8s"/>
+      <rect x="683" y="384" width="28" height="28" rx="8" fill="#3b82f6" fill-opacity="0.16"/>
+      <path d="M697 405 v-12 m-5 5 l5 -5 l5 5" fill="none" stroke="#3b82f6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="683" y="440" class="ct">Exporta todo</text>
+      <text x="683" y="459" class="cd">PDF, Word, páginas web,</text>
+      <text x="683" y="474" class="cd">imágenes PNG/SVG y</text>
+      <text x="683" y="489" class="cd">conversaciones a PDF.</text>
+    </g>
+
+    <!-- motor de IA -->
+    <text x="40" y="548" class="lbl">MOTOR DE INTELIGENCIA ARTIFICIAL</text>
+    <rect x="372" y="544" width="488" height="1.5" fill="url(#gold)"/>
+
+    <rect x="40" y="562" width="820" height="62" rx="12" fill="#0b2a22" stroke="#14532d"/>
+    <rect x="58" y="578" width="30" height="30" rx="8" fill="#16a34a"/>
+    <circle cx="73" cy="593" r="7" fill="none" stroke="#dcfce7" stroke-width="2"/>
+    <text x="104" y="590" font-size="15" font-weight="700" fill="#4ade80">Tres modalidades, tú decides</text>
+    <text x="104" y="609" font-size="12" fill="#86a99a">La IA corre en tu equipo, en la nube, o combinando ambas según tu necesidad.</text>
+
+    <rect x="600" y="580" width="66" height="26" rx="13" fill="#052e1a" stroke="#16a34a"/>
+    <text x="633" y="597" class="chip" fill="#4ade80">LOCAL</text>
+    <rect x="674" y="580" width="66" height="26" rx="13" fill="#071e33" stroke="#38bdf8"/>
+    <text x="707" y="597" class="chip" fill="#7dd3fc">NUBE</text>
+    <rect x="748" y="580" width="84" height="26" rx="13" fill="#2a2105" stroke="#eab308"/>
+    <text x="790" y="597" class="chip" fill="#fde047">HÍBRIDO</text>
+  </g>
+</svg>
