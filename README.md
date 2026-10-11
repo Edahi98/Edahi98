@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Edahi Avila, construyendo soluciones reales. Flujo animado: reto, aprender, prototipar, solución." />
+<img src="assets/hero.svg" width="100%" alt="Edahi Avila, construyendo soluciones reales. Noche nevada con flujo animado: reto, fallo con retorno al inicio, aprender y solución." />
 
 **Desarrollador autodidacta de Ecatepec que convierte retos que parecen imposibles en software que se usa de verdad.**
 
@@ -8,13 +8,16 @@
 
 </div>
 
-## 🔌 Entrada → Proceso → Salida
+## ❄️ Mi método: retorno por muerte
+
+*Inspirado en Re:Zero: si algo falla, vuelvo al último checkpoint, aprendo y lo intento otra vez.*
 
 |  |  |
 |---|---|
-| **Entrada** | Desafíos que a primera vista parecen imposibles. |
-| **Proceso** | Autodidacta por convicción: aprendo lo que haga falta, en solitario o en equipo, con adaptabilidad e iniciativa. |
-| **Salida** | Soluciones reales, funcionando en el escritorio de quien las necesita. |
+| **Reto** | Desafíos que a primera vista parecen imposibles. |
+| **Fallo** | Equivocarme es parte del proceso: vuelvo atrás sin rendirme. |
+| **Aprendizaje** | Autodidacta por convicción: aprendo lo que haga falta, en solitario o en equipo, con adaptabilidad e iniciativa. |
+| **Solución** | Soluciones reales, funcionando en el escritorio de quien las necesita. |
 
 ## ⭐ Proyecto destacado
 
