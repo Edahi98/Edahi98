@@ -54,6 +54,12 @@
 <img src="assets/stack.svg" width="100%" alt="C#, CSS, HTML, Java, Python, TypeScript, JavaScript y Rust" />
 </div>
 
+<div align="center">
+<img src="assets/arsenal.svg" width="100%" alt="Arsenal: cristal para la claridad, hielo para la sangre fría, arena para reintentar, castillo para la arquitectura, fantasma para depurar, bruja para los hechizos, grimorio para documentar, katana para la precisión, oni para los bugs jefe, linterna para guiar al equipo, kitsune para la astucia y alas para despegar." />
+</div>
+
+<sub>Íconos del Arsenal: [Lorc, Delapouite y Cathelineau en game-icons.net](https://game-icons.net), licencia [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/). Detalles en [assets/CREDITS.md](assets/CREDITS.md).</sub>
+
 <br>
 
 <div align="center">
