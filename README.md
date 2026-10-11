@@ -1,83 +1,69 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1e1b4b,50:6d28d9,100:db2777&text=Edahi%20Avila&fontColor=F5E1FF&fontSize=52&fontAlignY=38&desc=Construyendo%20soluciones%20reales&descAlignY=62&descSize=18&animation=fadeIn" />
+<img src="assets/hero.svg" width="100%" alt="Edahi Avila, construyendo soluciones reales. Noche nevada con flujo animado: reto, fallo con retorno al inicio, aprender y solución." />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=D8B4FE&center=true&vCenter=true&width=560&lines=TypeScript+%C2%B7+Python+%C2%B7+Rust;Autodidacta+por+convicci%C3%B3n+%F0%9F%9A%80" alt="Typing SVG" />
+**Desarrollador junior y autodidacta que convierte retos que parecen imposibles en software que se usa de verdad.**
 
-<img width="240" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
+[✉️ garciaedahi382@gmail.com](mailto:garciaedahi382@gmail.com) · [📦 Mis repositorios](https://github.com/Edahi98?tab=repositories)
 
 </div>
 
-## 🧠 Sobre mí
-
-Soy un profesional autodidacta por convicción: me apasiona tomar desafíos que parecen imposibles y convertirlos en soluciones reales.
-
-- 🤝 Adaptabilidad, iniciativa y trabajo en equipo — construyendo tanto en solitario como en equipos de desarrollo.
-- 📍 Ecatepec, Estado de México.
-
-<br>
-
-<div align="center">
-<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:db2777,100:6d28d9" />
-</div>
-
-## 🛠️ Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,css,html,java,py,ts,js,rust" />
-</p>
-
-<p align="center">
-  <img width="320" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" />
-</p>
-
-<br>
-
-<div align="center">
-<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:6d28d9,100:db2777" />
-</div>
-
-## 🚀 Proyectos destacados
-
-<p align="center">
-  <img width="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
-</p>
+<h2 align="center"><img src="assets/ep1.svg" width="100%" alt="Episodio 1: Mi método, retorno por muerte" /></h2>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
 
-### ⚡ [Denki Pipeline Designer](https://github.com/Edahi98/DenkiPepelineDesigner)
+*Inspirado en Re:Zero: si algo falla, vuelvo al último checkpoint, aprendo y lo intento otra vez.*
 
-Diseña pipelines de datos y Machine Learning arrastrando nodos en un canvas, sin escribir scripts.
-
-![Electron](https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Polars](https://img.shields.io/badge/-Polars-CD792C?style=for-the-badge)
+|  |  |
+|---|---|
+| **Reto** | Desafíos que a primera vista parecen imposibles. |
+| **Fallo** | Equivocarme es parte del proceso: vuelvo atrás sin rendirme. |
+| **Aprendizaje** | Autodidacta por convicción: aprendo lo que haga falta, en solitario o en equipo, con adaptabilidad e iniciativa. |
+| **Solución** | Soluciones reales, funcionando en el escritorio de quien las necesita. |
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="200" valign="middle">
 
-### 🪽 [TsubasaEngine](https://github.com/Edahi98/TsubasaEngine)
-
-Convierte JSON en pipelines de datos, modelos de ML o gráficas interactivas listas para usar.
-
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Polars](https://img.shields.io/badge/-Polars-CD792C?style=for-the-badge)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
+<img src="assets/clock.svg" width="180" alt="Reloj que gira hacia atrás, símbolo del retorno por muerte" />
 
 </td>
 </tr>
 </table>
 
+<div align="center">
+<img src="assets/icons.svg" width="100%" alt="Cinco símbolos de mi forma de trabajar: cristal para el enfoque, reloj para iterar, sombra para los bugs, libro para aprender y flor para el detalle." />
+</div>
+
+<h2 align="center"><img src="assets/ep2.svg" width="100%" alt="Episodio 2: Proyecto destacado" /></h2>
+
+<div align="center">
+<img src="assets/featured.svg" width="100%" alt="SECTIMonitor: sistema de monitoreo del Periódico Oficial del Estado de México para la Secretaría de Educación, Ciencia, Tecnología e Innovación, que vigila las gacetas y las convierte en presentaciones, infografías, resúmenes y diagramas. Incluye vigilancia automática, alertas, lector y buscador, chat con el documento, grafos de Venn, generador de contenido, pizarra, exportación y motor de IA local, en la nube o híbrido." />
+</div>
+
+**SECTIMonitor** es el sistema de monitoreo del Periódico Oficial del Estado de México creado exclusivamente para la **Secretaría de Educación, Ciencia, Tecnología e Innovación**. Es un sistema integral de escritorio que revisa las gacetas y avisa cuando hay nuevas. Las convierte en presentaciones, infografías, resúmenes y diagramas, encuentra las páginas sobre un tema y permite sellarlas para clasificarlas. *(Repositorio privado.)*
+
+<div align="center">
+<img src="assets/scene.svg" width="100%" alt="Interludio: una mansión en una colina nevada bajo la luna, con un reloj fantasma que gira hacia atrás y manos de sombra que se mecen." />
+</div>
+
+<h2 align="center"><img src="assets/ep3.svg" width="100%" alt="Episodio 3: Herramientas del taller" /></h2>
+
+<div align="center">
+<img src="assets/stack.svg" width="100%" alt="Afiche de habilidades: C#, Java, Python, TypeScript, JavaScript, Rust, LangChain y React, y un estallido amarillo con llama.cpp y Ollama para la IA local." />
+</div>
+
+En las soluciones que incluyen IA trabajo con **llama.cpp** y **Ollama**, junto con **LangChain**.
+
+<div align="center">
+<img src="assets/competencias.svg" width="100%" alt="Competencias: resolución de problemas, pensamiento analítico, aprendizaje autónomo, adaptabilidad, trabajo en equipo, proactividad, orientación a resultados e innovación tecnológica." />
+</div>
+
+<sub>Íconos de las competencias: [Lorc, Delapouite y DarkZaitzev en game-icons.net](https://game-icons.net), licencia [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/). Detalles en [assets/CREDITS.md](assets/CREDITS.md).</sub>
+
 <br>
 
 <div align="center">
-
-¡Gracias por pasar! 🎉
-
-<img width="200" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:db2777,100:1e1b4b&section=footer&animation=twinkling" />
-
+<a href="mailto:garciaedahi382@gmail.com"><img src="assets/footer.svg" width="100%" alt="Checkpoint guardado. ¿Colaboramos? Escríbeme a garciaedahi382@gmail.com" /></a>
 </div>

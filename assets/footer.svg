@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 130" width="900" height="130" role="img" aria-labelledby="t">
+  <title id="t">Checkpoint guardado. ¿Colaboramos? garciaedahi382@gmail.com</title>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0d0b2e"/>
+      <stop offset="1" stop-color="#2a1250"/>
+    </linearGradient>
+    <linearGradient id="end" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3a2a8f"/>
+      <stop offset="1" stop-color="#7a3bb8"/>
+    </linearGradient>
+    <g id="flake" fill="none" stroke="#cfe3ff" stroke-width="1.6" stroke-linecap="round">
+      <path d="M0,-12 V12 M-10,-6 L10,6 M-10,6 L10,-6"/>
+    </g>
+  </defs>
+  <style>
+    .mono  { font-family: ui-monospace, "Fira Code", Consolas, "Courier New", monospace; }
+    .serif { font-family: Georgia, "Iowan Old Style", "Palatino Linotype", "Times New Roman", serif; }
+    .flow  { stroke-dasharray: 6 8; animation: flow 1.2s linear infinite; }
+    @keyframes flow { to { stroke-dashoffset: -28; } }
+    .spin  { transform-box: fill-box; transform-origin: center; animation: spin 20s linear infinite; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .pulse { animation: pulse 2.4s ease-in-out infinite; }
+    @keyframes pulse { 0%, 100% { opacity: 0.5; } 50% { opacity: 1; } }
+  </style>
+
+  <rect width="900" height="130" rx="20" fill="url(#sky)"/>
+  <rect x="0.5" y="0.5" width="899" height="129" rx="19.5" fill="none" stroke="#3b3f8f"/>
+
+  <g class="spin" opacity="0.6"><use href="#flake" x="70" y="38"/></g>
+  <g class="spin" opacity="0.45"><use href="#flake" x="840" y="92"/></g>
+
+  <circle class="pulse" cx="48" cy="104" r="4" fill="#7ef0b5"/>
+  <text x="62" y="108" class="mono" font-size="12" fill="#9fb0ff">checkpoint guardado</text>
+
+  <line x1="130" y1="62" x2="300" y2="62" stroke="#7c8cff" stroke-width="2" class="flow"/>
+  <line x1="600" y1="62" x2="770" y2="62" stroke="#b79cff" stroke-width="2" class="flow"/>
+  <circle r="5" fill="#9ee7ff">
+    <animateMotion dur="3s" repeatCount="indefinite" path="M130,62 L300,62"/>
+  </circle>
+
+  <rect x="300" y="30" width="300" height="64" rx="14" fill="url(#end)" stroke="#c4b5fd" stroke-width="1.5"/>
+  <text x="450" y="58" class="serif" font-size="19" font-weight="700" font-style="italic" fill="#ffffff" text-anchor="middle">¿Colaboramos?</text>
+  <text x="450" y="80" class="mono" font-size="13" fill="#e0d4ff" text-anchor="middle">garciaedahi382@gmail.com</text>
+</svg>

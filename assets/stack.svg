@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300" role="img" aria-labelledby="t">
+  <title id="t">Habilidades: C#, Java, Python, TypeScript, JavaScript, Rust, LangChain y React. IA local: llama.cpp y Ollama.</title>
+  <defs>
+    <pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse">
+      <circle cx="7" cy="7" r="1.4" fill="#ffffff" fill-opacity="0.09"/>
+    </pattern>
+    <polygon id="burst" points="749,22 771.5,52.7 806.5,34.8 814,73.2 854,68.1 844,106.5 874,129.5 849,160.2 869,196.1 831.5,206.3 829,247.3 791.5,237 769,272.9 749,244.7 726.5,272.9 706.5,237 669,247.3 666.5,206.3 629,196.1 649,160.2 624,129.5 654,106.5 644,68.1 684,73.2 691.5,34.8 726.5,52.7"/>
+    <clipPath id="card"><rect width="900" height="300" rx="14"/></clipPath>
+  </defs>
+  <style>
+    .blk  { font-family: "Arial Black", "Segoe UI Black", Impact, "Helvetica Neue", Arial, sans-serif; font-weight: 900; }
+    .jp   { font-family: "Yu Gothic", "Meiryo", "Hiragino Sans", "Noto Sans CJK JP", "Arial Black", sans-serif; font-weight: 900; }
+    .bar  { animation: slide 0.7s cubic-bezier(.2,.8,.2,1) backwards; }
+    @keyframes slide { from { opacity: 0; transform: translateX(-36px); } to { opacity: 1; transform: translateX(0); } }
+    .tab  { animation: glow 3.4s ease-in-out infinite; }
+    @keyframes glow { 0%, 100% { opacity: 0.8; } 50% { opacity: 1; } }
+    .lock { animation: lock 2.6s ease-in-out infinite; }
+    @keyframes lock { 0%, 100% { opacity: 0.45; } 50% { opacity: 0.9; } }
+    .wob  { transform-origin: 749px 150px; animation: wob 3.6s ease-in-out infinite; }
+    @keyframes wob { 0%, 100% { transform: rotate(-2.5deg) scale(1); } 50% { transform: rotate(2.5deg) scale(1.025); } }
+    .hanko { transform-origin: 866px 266px; animation: stamp 6s ease-out infinite; }
+    @keyframes stamp { 0%, 8% { transform: rotate(-8deg) scale(1.8); opacity: 0; } 14% { transform: rotate(-8deg) scale(0.95); opacity: 1; } 18%, 92% { transform: rotate(-8deg) scale(1); opacity: 1; } 100% { transform: rotate(-8deg) scale(1); opacity: 0; } }
+  </style>
+
+  <g clip-path="url(#card)">
+    <rect width="900" height="300" fill="#1a1450"/>
+    <rect width="900" height="300" fill="url(#dots)"/>
+    <text x="-14" y="262" class="jp" font-size="360" fill="#ffffff" fill-opacity="0.07" aria-hidden="true">技</text>
+    <polygon points="0,0 100,0 56,300 0,300" fill="#ff2e63"/>
+    <text transform="translate(40 26) rotate(90)" class="blk" font-size="15" letter-spacing="4" fill="#ffffff">HABILIDADES</text>
+  </g>
+
+  <!-- columna izquierda -->
+  <g class="bar" style="animation-delay:.05s">
+    <polygon points="104,30 335,30 327,74 96,74" fill="#0f0b33" stroke="#ffffff" stroke-opacity="0.18"/>
+    <polygon class="tab" points="104,30 114,30 106,74 96,74" fill="#a855f7"/>
+    <text x="124" y="59" class="blk" font-size="19" fill="#ffffff">C#</text>
+    <text x="312" y="57" class="blk" font-size="10" letter-spacing="2" fill="#c4a1ff" text-anchor="end">ESCRITORIO</text>
+  </g>
+  <g class="bar" style="animation-delay:.15s">
+    <polygon points="104,86 335,86 327,130 96,130" fill="#0f0b33" stroke="#ffffff" stroke-opacity="0.18"/>
+    <polygon class="tab" points="104,86 114,86 106,130 96,130" fill="#ed8b00" style="animation-delay:.3s"/>
+    <text x="124" y="115" class="blk" font-size="19" fill="#ffffff">Java</text>
+    <text x="312" y="113" class="blk" font-size="10" letter-spacing="2" fill="#ffc266" text-anchor="end">ROBUSTO</text>
+  </g>
+  <g class="bar" style="animation-delay:.25s">
+    <polygon points="104,142 335,142 327,186 96,186" fill="#0f0b33" stroke="#ffffff" stroke-opacity="0.18"/>
+    <polygon class="tab" points="104,142 114,142 106,186 96,186" fill="#5fa8e0" style="animation-delay:.6s"/>
+    <text x="124" y="171" class="blk" font-size="19" fill="#ffffff">Python</text>
+    <text x="312" y="169" class="blk" font-size="10" letter-spacing="2" fill="#a9d3f5" text-anchor="end">DATOS</text>
+  </g>
+  <g class="bar" style="animation-delay:.35s">
+    <polygon points="104,198 335,198 327,242 96,242" fill="#0f0b33" stroke="#ffffff" stroke-opacity="0.18"/>
+    <polygon class="tab" points="104,198 114,198 106,242 96,242" fill="#5599e8" style="animation-delay:.9s"/>
+    <text x="124" y="227" class="blk" font-size="19" fill="#ffffff">TypeScript</text>
+    <text x="312" y="225" class="blk" font-size="10" letter-spacing="2" fill="#9cc4f5" text-anchor="end">TIPADO</text>
+  </g>
+
+  <!-- columna derecha -->
+  <g class="bar" style="animation-delay:.1s">
+    <polygon points="361,30 592,30 584,74 353,74" fill="#0f0b33" stroke="#ffffff" stroke-opacity="0.18"/>
+    <polygon class="tab" points="361,30 371,30 363,74 353,74" fill="#f7df1e" style="animation-delay:1.2s"/>
+    <text x="381" y="59" class="blk" font-size="19" fill="#ffffff">JavaScript</text>
+    <text x="569" y="57" class="blk" font-size="10" letter-spacing="2" fill="#fbee7a" text-anchor="end">WEB</text>
+  </g>
+  <g class="bar" style="animation-delay:.2s">
+    <polygon points="361,86 592,86 584,130 353,130" fill="#0f0b33" stroke="#ffffff" stroke-opacity="0.18"/>
+    <polygon class="tab" points="361,86 371,86 363,130 353,130" fill="#dea584" style="animation-delay:1.5s"/>
+    <text x="381" y="115" class="blk" font-size="19" fill="#ffffff">Rust</text>
+    <text x="569" y="113" class="blk" font-size="10" letter-spacing="2" fill="#f0c7ad" text-anchor="end">RENDIMIENTO</text>
+  </g>
+  <g class="bar" style="animation-delay:.3s">
+    <polygon points="361,142 592,142 584,186 353,186" fill="#0f0b33" stroke="#ffffff" stroke-opacity="0.18"/>
+    <polygon class="tab" points="361,142 371,142 363,186 353,186" fill="#2dd4bf" style="animation-delay:1.8s"/>
+    <text x="381" y="171" class="blk" font-size="19" fill="#ffffff">LangChain</text>
+    <text x="569" y="169" class="blk" font-size="10" letter-spacing="2" fill="#7ff0df" text-anchor="end">LLM</text>
+  </g>
+  <g class="bar" style="animation-delay:.4s">
+    <polygon points="361,198 592,198 584,242 353,242" fill="#0f0b33" stroke="#ffffff" stroke-opacity="0.18"/>
+    <polygon class="tab" points="361,198 371,198 363,242 353,242" fill="#61dafb" style="animation-delay:2.1s"/>
+    <text x="381" y="227" class="blk" font-size="19" fill="#ffffff">React</text>
+    <text x="569" y="225" class="blk" font-size="10" letter-spacing="2" fill="#a5ecff" text-anchor="end">INTERFAZ</text>
+  </g>
+
+  <!-- estallido de IA local -->
+  <g class="wob">
+    <use href="#burst" fill="#ffd23f"/>
+    <use href="#burst" fill="#0f0b33" transform="translate(749 150) scale(0.89) translate(-749 -150)"/>
+  </g>
+  <g class="blk" text-anchor="middle">
+    <text x="749" y="108" font-size="11" letter-spacing="4" fill="#ffd23f">IA LOCAL</text>
+    <text x="749" y="143" font-size="26" fill="#ffffff">llama.cpp</text>
+    <text x="749" y="166" font-size="16" fill="#ff2e63">+</text>
+    <text x="749" y="197" font-size="26" fill="#ffffff">Ollama</text>
+  </g>
+
+  <!-- hanko -->
+  <g class="hanko">
+    <rect x="844" y="244" width="44" height="44" rx="6" fill="none" stroke="#ff2e63" stroke-width="3"/>
+    <text x="866" y="273" class="blk" font-size="17" fill="#ff2e63" text-anchor="middle">EA</text>
+  </g>
+
+  <rect x="0.5" y="0.5" width="899" height="299" rx="13.5" fill="none" stroke="#2e3382"/>
+</svg>
