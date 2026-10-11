@@ -1,17 +1,22 @@
 # Créditos
 
-## Íconos de `arsenal.svg`
+## Íconos de `competencias.svg`
 
-Los doce íconos del panel Arsenal provienen de [game-icons.net](https://game-icons.net)
+Los ocho íconos del panel de competencias provienen de [game-icons.net](https://game-icons.net)
 (repositorio [game-icons/icons](https://github.com/game-icons/icons)) y se usan bajo la
 licencia [Creative Commons Attribution 3.0 (CC BY 3.0)](https://creativecommons.org/licenses/by/3.0/).
 Se recolorearon y se reubicaron; las formas originales no se modificaron.
 
-| Ícono | Autor |
-|---|---|
-| crystal-shine, hourglass, ghost, fox-head, angel-wings | [Lorc](http://lorcblog.blogspot.com) |
-| ice-spell-cast, castle, spell-book, katana, oni, asian-lantern | [Delapouite](http://delapouite.com) |
-| witch-face | Cathelineau |
+| Ícono | Competencia | Autor |
+|---|---|---|
+| puzzle | Resolución de problemas | [Delapouite](http://delapouite.com) |
+| brain | Pensamiento analítico | [Lorc](http://lorcblog.blogspot.com) |
+| spell-book | Aprendizaje autónomo | [Delapouite](http://delapouite.com) |
+| chameleon-glyph | Adaptabilidad | [DarkZaitzev](http://darkzaitzev.deviantart.com) |
+| team-idea | Trabajo en equipo | [Delapouite](http://delapouite.com) |
+| running-ninja | Proactividad | [DarkZaitzev](http://darkzaitzev.deviantart.com) |
+| archery-target | Orientación a resultados | [Lorc](http://lorcblog.blogspot.com) |
+| idea | Innovación tecnológica | [Delapouite](http://delapouite.com) |
 
 ## Resto de ilustraciones
 

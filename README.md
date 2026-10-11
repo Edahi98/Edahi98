@@ -57,10 +57,10 @@
 En las soluciones que incluyen IA trabajo con **llama.cpp** y **Ollama**, junto con **LangChain**.
 
 <div align="center">
-<img src="assets/arsenal.svg" width="100%" alt="Arsenal: cristal para la claridad, hielo para la sangre fría, arena para reintentar, castillo para la arquitectura, fantasma para depurar, bruja para los hechizos, grimorio para documentar, katana para la precisión, oni para los bugs jefe, linterna para guiar al equipo, kitsune para la astucia y alas para despegar." />
+<img src="assets/competencias.svg" width="100%" alt="Competencias: resolución de problemas, pensamiento analítico, aprendizaje autónomo, adaptabilidad, trabajo en equipo, proactividad, orientación a resultados e innovación tecnológica." />
 </div>
 
-<sub>Íconos del Arsenal: [Lorc, Delapouite y Cathelineau en game-icons.net](https://game-icons.net), licencia [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/). Detalles en [assets/CREDITS.md](assets/CREDITS.md).</sub>
+<sub>Íconos de las competencias: [Lorc, Delapouite y DarkZaitzev en game-icons.net](https://game-icons.net), licencia [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/). Detalles en [assets/CREDITS.md](assets/CREDITS.md).</sub>
 
 <br>
 
