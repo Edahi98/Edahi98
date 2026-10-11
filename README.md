@@ -2,7 +2,7 @@
 
 <img src="assets/hero.svg" width="100%" alt="Edahi Avila, construyendo soluciones reales. Noche nevada con flujo animado: reto, fallo con retorno al inicio, aprender y solución." />
 
-**Desarrollador autodidacta de Ecatepec que convierte retos que parecen imposibles en software que se usa de verdad.**
+**Desarrollador autodidacta que convierte retos que parecen imposibles en software que se usa de verdad.**
 
 [✉️ garciaedahi382@gmail.com](mailto:garciaedahi382@gmail.com) · [📦 Mis repositorios](https://github.com/Edahi98?tab=repositories)
 
@@ -39,10 +39,10 @@
 <h2 align="center"><img src="assets/ep2.svg" width="100%" alt="Episodio 2: Proyecto destacado" /></h2>
 
 <div align="center">
-<img src="assets/featured.svg" width="100%" alt="SECTIMonitor: sistema de escritorio que vigila las gacetas del Periódico Oficial del Estado de México y las convierte en presentaciones, infografías, resúmenes y diagramas. Incluye vigilancia automática, alertas, lector y buscador, chat con el documento, grafos de Venn, generador de contenido, pizarra, exportación y motor de IA local, en la nube o híbrido." />
+<img src="assets/featured.svg" width="100%" alt="SECTIMonitor: sistema de monitoreo del Periódico Oficial del Estado de México para la Secretaría de Educación, Ciencia, Tecnología e Innovación, que vigila las gacetas y las convierte en presentaciones, infografías, resúmenes y diagramas. Incluye vigilancia automática, alertas, lector y buscador, chat con el documento, grafos de Venn, generador de contenido, pizarra, exportación y motor de IA local, en la nube o híbrido." />
 </div>
 
-**SECTIMonitor** es un sistema integral de escritorio que revisa las gacetas del Periódico Oficial del Estado de México y avisa cuando hay nuevas. Las convierte en presentaciones, infografías, resúmenes y diagramas, encuentra las páginas sobre un tema y permite sellarlas para clasificarlas. *(Repositorio privado.)*
+**SECTIMonitor** es el sistema de monitoreo del Periódico Oficial del Estado de México creado exclusivamente para la **Secretaría de Educación, Ciencia, Tecnología e Innovación**. Es un sistema integral de escritorio que revisa las gacetas y avisa cuando hay nuevas. Las convierte en presentaciones, infografías, resúmenes y diagramas, encuentra las páginas sobre un tema y permite sellarlas para clasificarlas. *(Repositorio privado.)*
 
 <div align="center">
 <img src="assets/scene.svg" width="100%" alt="Interludio: una mansión en una colina nevada bajo la luna, con un reloj fantasma que gira hacia atrás y manos de sombra que se mecen." />

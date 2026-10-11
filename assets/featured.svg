@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 720" width="900" height="720" role="img" aria-labelledby="t d">
   <title id="t">SECTIMonitor, proyecto destacado</title>
-  <desc id="d">Página de gaceta oficial que presenta SECTIMonitor, un sistema de escritorio que vigila el Periódico Oficial del Estado de México. Ocho artículos: vigilancia automática, alertas inteligentes, lector y buscador, pregunta al documento, grafos de relaciones, generador de contenido, editor y pizarra, exporta todo. Motor de IA local, en la nube o híbrido.</desc>
+  <desc id="d">Página de gaceta oficial que presenta SECTIMonitor, el sistema de monitoreo del Periódico Oficial del Estado de México creado exclusivamente para la Secretaría de Educación, Ciencia, Tecnología e Innovación. Ocho artículos: vigilancia automática, alertas inteligentes, lector y buscador, pregunta al documento, grafos de relaciones, generador de contenido, editor y pizarra, exporta todo. Motor de IA local, en la nube o híbrido.</desc>
   <defs>
     <filter id="grain" x="0" y="0" width="100%" height="100%">
       <feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="2" stitchTiles="stitch"/>
@@ -67,9 +67,10 @@
 
     <!-- título -->
     <text x="40" y="158" class="serif" font-size="76" font-weight="700" fill="#1a1612" letter-spacing="-1">SECTI<tspan font-style="italic" font-weight="400" fill="#a4161a">Monitor</tspan></text>
-    <text x="42" y="198" class="serif" font-size="17" font-style="italic" fill="#3a322a">Sistema integral de escritorio que revisa las</text>
-    <text x="42" y="221" class="serif" font-size="17" font-style="italic" fill="#3a322a">gacetas del Periódico Oficial del Estado de</text>
-    <text x="42" y="244" class="serif" font-size="17" font-style="italic" fill="#3a322a">México y avisa cuando hay nuevas.</text>
+    <text x="42" y="198" class="serif" font-size="17" font-style="italic" fill="#3a322a">Sistema de monitoreo del Periódico Oficial</text>
+    <text x="42" y="221" class="serif" font-size="17" font-style="italic" fill="#3a322a">del Estado de México, creado exclusivamente</text>
+    <text x="42" y="244" class="serif" font-size="17" font-style="italic" fill="#3a322a">para la Secretaría de Educación, Ciencia,</text>
+    <text x="42" y="267" class="serif" font-size="17" font-style="italic" fill="#3a322a">Tecnología e Innovación.</text>
 
     <!-- Venn -->
     <g style="mix-blend-mode:multiply">
