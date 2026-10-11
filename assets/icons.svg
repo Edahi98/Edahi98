@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 170" width="900" height="170" role="img" aria-labelledby="t">
+  <title id="t">Cinco símbolos: cristal (enfoque), reloj (iterar), sombra (bugs), libro (aprender) y flor (el detalle)</title>
+  <style>
+    .serif { font-family: Georgia, "Iowan Old Style", "Palatino Linotype", "Times New Roman", serif; }
+    .mono  { font-family: ui-monospace, "Fira Code", Consolas, "Courier New", monospace; }
+    .fl { animation: fl 4.5s ease-in-out infinite; }
+    @keyframes fl { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-5px); } }
+    .ic { fill: none; stroke-width: 2.6; stroke-linecap: round; stroke-linejoin: round; }
+    .name { font-size: 16px; font-weight: 700; fill: #f4f8ff; text-anchor: middle; }
+    .sub  { font-size: 11px; fill: #9fb0ff; text-anchor: middle; }
+    .card { fill: #0d1030; stroke: #2e3382; }
+  </style>
+
+  <rect x="0.5" y="0.5" width="899" height="169" rx="20" fill="#080a22" stroke="#3b3f8f"/>
+
+  <!-- 1 cristal -->
+  <g transform="translate(40 24)">
+    <rect class="card" width="148" height="122" rx="14"/>
+    <g transform="translate(74 42)"><g class="fl">
+      <g class="ic" stroke="#cfe3ff">
+        <path d="M0,-22 V22 M-19,-11 L19,11 M-19,11 L19,-11"/>
+        <path d="M-5,-17 L0,-12 L5,-17 M-5,17 L0,12 L5,17 M-16,-6 L-11,-9 L-14,-14 M16,6 L11,9 L14,14 M-16,6 L-11,9 L-14,14 M16,-6 L11,-9 L14,-14"/>
+      </g>
+    </g></g>
+    <text x="74" y="92" class="serif name">Cristal</text>
+    <text x="74" y="110" class="mono sub">enfoque</text>
+  </g>
+
+  <!-- 2 reloj -->
+  <g transform="translate(212 24)">
+    <rect class="card" width="148" height="122" rx="14"/>
+    <g transform="translate(74 42)"><g class="fl" style="animation-delay:-.9s">
+      <g class="ic" stroke="#ff7a93">
+        <circle r="17"/>
+        <path d="M0,0 V-10 M0,0 L8,4"/>
+        <path d="M-22,-10 A25,25 0 0 1 6,-24"/>
+        <path d="M-22,-10 l-1,-7 m1,7 l7,-1"/>
+      </g>
+    </g></g>
+    <text x="74" y="92" class="serif name">Reloj</text>
+    <text x="74" y="110" class="mono sub">iterar</text>
+  </g>
+
+  <!-- 3 sombra -->
+  <g transform="translate(384 24)">
+    <rect class="card" width="148" height="122" rx="14"/>
+    <g transform="translate(74 44)"><g class="fl" style="animation-delay:-1.8s">
+      <g class="ic" stroke="#b79cff">
+        <rect x="-11" y="-2" width="22" height="20" rx="7" fill="#1a0f33"/>
+        <path d="M-8,-2 V-16 M-3,-2 V-21 M3,-2 V-20 M8,-2 V-14"/>
+        <path d="M-11,8 L-19,-1"/>
+      </g>
+    </g></g>
+    <text x="74" y="92" class="serif name">Sombra</text>
+    <text x="74" y="110" class="mono sub">bugs al acecho</text>
+  </g>
+
+  <!-- 4 libro -->
+  <g transform="translate(556 24)">
+    <rect class="card" width="148" height="122" rx="14"/>
+    <g transform="translate(74 42)"><g class="fl" style="animation-delay:-2.7s">
+      <g class="ic" stroke="#f5d98a">
+        <path d="M0,-12 C-8,-16 -16,-14 -22,-10 V14 C-16,10 -8,8 0,12 Z"/>
+        <path d="M0,-12 C8,-16 16,-14 22,-10 V14 C16,10 8,8 0,12 Z"/>
+        <path d="M-15,-3 C-11,-4 -7,-3 -4,-1 M-15,3 C-11,2 -7,3 -4,5 M4,-1 C7,-3 11,-4 15,-3 M4,5 C7,3 11,2 15,3" stroke-width="1.6"/>
+      </g>
+    </g></g>
+    <text x="74" y="92" class="serif name">Libro</text>
+    <text x="74" y="110" class="mono sub">aprender</text>
+  </g>
+
+  <!-- 5 flor -->
+  <g transform="translate(728 24)">
+    <rect class="card" width="148" height="122" rx="14"/>
+    <g transform="translate(74 42)"><g class="fl" style="animation-delay:-3.6s">
+      <g class="ic" stroke="#ff9bd5">
+        <ellipse cx="0" cy="-12" rx="6" ry="11" fill="#ff9bd5" fill-opacity="0.25"/>
+        <ellipse cx="0" cy="-12" rx="6" ry="11" fill="#ff9bd5" fill-opacity="0.25" transform="rotate(72)"/>
+        <ellipse cx="0" cy="-12" rx="6" ry="11" fill="#ff9bd5" fill-opacity="0.25" transform="rotate(144)"/>
+        <ellipse cx="0" cy="-12" rx="6" ry="11" fill="#ff9bd5" fill-opacity="0.25" transform="rotate(216)"/>
+        <ellipse cx="0" cy="-12" rx="6" ry="11" fill="#ff9bd5" fill-opacity="0.25" transform="rotate(288)"/>
+        <circle r="4" fill="#ffe08a" stroke="#ffe08a"/>
+      </g>
+    </g></g>
+    <text x="74" y="92" class="serif name">Flor</text>
+    <text x="74" y="110" class="mono sub">el detalle</text>
+  </g>
+</svg>

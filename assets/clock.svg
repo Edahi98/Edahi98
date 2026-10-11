@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" role="img" aria-labelledby="t">
+  <title id="t">Reloj que gira hacia atrás: retorno por muerte</title>
+  <defs>
+    <radialGradient id="face" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#1b1450"/>
+      <stop offset="1" stop-color="#0a0824"/>
+    </radialGradient>
+  </defs>
+  <style>
+    .spin { transform-origin: 100px 100px; }
+    .ring { animation: cw 30s linear infinite; }
+    .ring2 { animation: ccw 18s linear infinite; }
+    .hh { animation: ccw 24s linear infinite; }
+    .mh { animation: ccw 6s linear infinite; }
+    .pulse { animation: p 2.4s ease-in-out infinite; }
+    @keyframes cw  { to { transform: rotate(360deg); } }
+    @keyframes ccw { to { transform: rotate(-360deg); } }
+    @keyframes p { 0%, 100% { opacity: 0.4; } 50% { opacity: 1; } }
+  </style>
+
+  <circle cx="100" cy="100" r="92" fill="url(#face)" stroke="#7c8cff" stroke-width="2"/>
+  <circle class="spin ring" cx="100" cy="100" r="84" fill="none" stroke="#b79cff" stroke-width="1.5" stroke-dasharray="2 8"/>
+  <circle class="spin ring2" cx="100" cy="100" r="74" fill="none" stroke="#ff5c7a" stroke-width="1.5" stroke-dasharray="14 10"/>
+
+  <g stroke="#cfe3ff" stroke-width="2.5" stroke-linecap="round">
+    <path d="M100,20 v12 M100,168 v12 M20,100 h12 M168,100 h12"/>
+  </g>
+  <g stroke="#7c8cff" stroke-width="1.5" stroke-linecap="round">
+    <path d="M140,31 l-6,10 M169,60 l-10,6 M169,140 l-10,-6 M140,169 l-6,-10 M60,169 l6,-10 M31,140 l10,-6 M31,60 l10,6 M60,31 l6,10"/>
+  </g>
+
+  <!-- cristal central -->
+  <g class="pulse" transform="translate(100 100)" fill="none" stroke="#cfe3ff" stroke-width="1.6" stroke-linecap="round" opacity="0.5">
+    <path d="M0,-30 V30 M-26,-15 L26,15 M-26,15 L26,-15"/>
+  </g>
+
+  <path class="spin hh" d="M100,100 V52" stroke="#f4f8ff" stroke-width="5" stroke-linecap="round"/>
+  <path class="spin mh" d="M100,100 V34" stroke="#ff9db0" stroke-width="3.5" stroke-linecap="round"/>
+  <circle cx="100" cy="100" r="6" fill="#ff5c7a"/>
+  <circle cx="100" cy="100" r="2.5" fill="#0a0824"/>
+</svg>

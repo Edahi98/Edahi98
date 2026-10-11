@@ -75,9 +75,9 @@
   </g>
 
   <!-- cristales de hielo -->
-  <use href="#flake" class="spin" x="610" y="120" opacity="0.55" transform="scale(1.4)" style="transform-origin: 610px 120px"/>
+  <g transform="translate(610 120) scale(1.4)"><g class="spin" opacity="0.55"><use href="#flake"/></g></g>
   <g class="spin" opacity="0.5"><use href="#flake" x="850" y="215"/></g>
-  <g class="spin" opacity="0.35"><use href="#flake" x="430" y="70" transform="scale(0.8)" style="transform-origin: 430px 70px"/></g>
+  <g transform="translate(430 70) scale(0.8)"><g class="spin" opacity="0.35"><use href="#flake"/></g></g>
 
   <!-- miasma de la bruja -->
   <g filter="url(#blur)">

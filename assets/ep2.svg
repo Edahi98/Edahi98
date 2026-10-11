@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 96" width="900" height="96" role="img" aria-labelledby="t">
+  <title id="t">Episodio 2: Proyecto destacado</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0a0d2b"/>
+      <stop offset="1" stop-color="#1f1253"/>
+    </linearGradient>
+    <linearGradient id="sw" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#cfe3ff" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="c"><rect width="900" height="96" rx="14"/></clipPath>
+  </defs>
+  <style>
+    .serif { font-family: Georgia, "Iowan Old Style", "Palatino Linotype", "Times New Roman", serif; }
+    .mono  { font-family: ui-monospace, "Fira Code", Consolas, "Courier New", monospace; }
+    .jp    { font-family: "Yu Gothic", "Meiryo", "Hiragino Sans", "Noto Sans CJK JP", sans-serif; }
+    .sweep { animation: sweep 6s ease-in-out infinite; }
+    @keyframes sweep { 0% { transform: translateX(0); } 55%, 100% { transform: translateX(1180px); } }
+    .spin { transform-box: fill-box; transform-origin: center; animation: spin 22s linear infinite; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .dash { stroke-dasharray: 10 8; animation: dash 1.4s linear infinite; }
+    @keyframes dash { to { stroke-dashoffset: -36; } }
+  </style>
+  <g clip-path="url(#c)">
+    <rect width="900" height="96" fill="url(#bg)"/>
+    <polygon points="0,0 160,0 118,96 0,96" fill="#5b2a9e" opacity="0.55"/>
+    <polygon points="168,0 180,0 138,96 126,96" fill="#ff5c7a"/>
+    <text x="20" y="74" class="serif" font-size="68" font-weight="700" font-style="italic" fill="#ffffff" fill-opacity="0.12" stroke="#e8eeff" stroke-width="1.6">02</text>
+    <text x="206" y="36" class="mono" font-size="12" letter-spacing="4" fill="#ff9db0">EPISODIO 02 · <tspan class="jp" letter-spacing="2">第二話</tspan></text>
+    <text x="206" y="73" class="serif" font-size="31" font-style="italic" fill="#f4f8ff">Proyecto destacado</text>
+    <line x1="720" y1="30" x2="790" y2="30" stroke="#7c8cff" stroke-width="2" class="dash"/>
+    <line x1="700" y1="48" x2="790" y2="48" stroke="#b79cff" stroke-width="2" class="dash" style="animation-delay:-.4s"/>
+    <line x1="730" y1="66" x2="790" y2="66" stroke="#7c8cff" stroke-width="2" class="dash" style="animation-delay:-.8s"/>
+    <g transform="translate(840 48) scale(1.5)">
+      <g class="spin" opacity="0.8" fill="none" stroke="#cfe3ff" stroke-width="2" stroke-linecap="round">
+        <path d="M0,-14 V14 M-12,-7 L12,7 M-12,7 L12,-7"/>
+        <path d="M-3,-11 L0,-8 L3,-11 M-3,11 L0,8 L3,11"/>
+      </g>
+    </g>
+    <g transform="skewX(-20)"><rect class="sweep" x="-220" y="-10" width="140" height="120" fill="url(#sw)"/></g>
+  </g>
+  <rect x="0.5" y="0.5" width="899" height="95" rx="13.5" fill="none" stroke="#3b3f8f"/>
+</svg>

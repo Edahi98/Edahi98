@@ -8,7 +8,11 @@
 
 </div>
 
-## ❄️ Mi método: retorno por muerte
+<h2 align="center"><img src="assets/ep1.svg" width="100%" alt="Episodio 1: Mi método, retorno por muerte" /></h2>
+
+<table>
+<tr>
+<td valign="top">
 
 *Inspirado en Re:Zero: si algo falla, vuelvo al último checkpoint, aprendo y lo intento otra vez.*
 
@@ -19,7 +23,20 @@
 | **Aprendizaje** | Autodidacta por convicción: aprendo lo que haga falta, en solitario o en equipo, con adaptabilidad e iniciativa. |
 | **Solución** | Soluciones reales, funcionando en el escritorio de quien las necesita. |
 
-## ⭐ Proyecto destacado
+</td>
+<td align="center" width="200" valign="middle">
+
+<img src="assets/clock.svg" width="180" alt="Reloj que gira hacia atrás, símbolo del retorno por muerte" />
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="assets/icons.svg" width="100%" alt="Cinco símbolos de mi forma de trabajar: cristal para el enfoque, reloj para iterar, sombra para los bugs, libro para aprender y flor para el detalle." />
+</div>
+
+<h2 align="center"><img src="assets/ep2.svg" width="100%" alt="Episodio 2: Proyecto destacado" /></h2>
 
 <div align="center">
 <img src="assets/featured.svg" width="100%" alt="SECTIMonitor: sistema de escritorio que vigila las gacetas del Periódico Oficial del Estado de México y las convierte en presentaciones, infografías, resúmenes y diagramas. Incluye vigilancia automática, alertas, lector y buscador, chat con el documento, grafos de Venn, generador de contenido, pizarra, exportación y motor de IA local, en la nube o híbrido." />
@@ -27,7 +44,11 @@
 
 **SECTIMonitor** es un sistema integral de escritorio que revisa las gacetas del Periódico Oficial del Estado de México y avisa cuando hay nuevas. Las convierte en presentaciones, infografías, resúmenes y diagramas, encuentra las páginas sobre un tema y permite sellarlas para clasificarlas. *(Repositorio privado.)*
 
-## 🧰 Lenguajes
+<div align="center">
+<img src="assets/scene.svg" width="100%" alt="Interludio: una mansión en una colina nevada bajo la luna, con un reloj fantasma que gira hacia atrás y manos de sombra que se mecen." />
+</div>
+
+<h2 align="center"><img src="assets/ep3.svg" width="100%" alt="Episodio 3: Herramientas del taller" /></h2>
 
 <div align="center">
 <img src="assets/stack.svg" width="100%" alt="C#, CSS, HTML, Java, Python, TypeScript, JavaScript y Rust" />
@@ -36,5 +57,5 @@
 <br>
 
 <div align="center">
-<a href="mailto:garciaedahi382@gmail.com"><img src="assets/footer.svg" width="100%" alt="¿Colaboramos? Escríbeme a garciaedahi382@gmail.com" /></a>
+<a href="mailto:garciaedahi382@gmail.com"><img src="assets/footer.svg" width="100%" alt="Checkpoint guardado. ¿Colaboramos? Escríbeme a garciaedahi382@gmail.com" /></a>
 </div>
