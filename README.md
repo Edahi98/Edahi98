@@ -51,10 +51,10 @@
 <h2 align="center"><img src="assets/ep3.svg" width="100%" alt="Episodio 3: Herramientas del taller" /></h2>
 
 <div align="center">
-<img src="assets/stack.svg" width="100%" alt="Afiche de habilidades: C#, CSS, HTML, Java, Python, TypeScript, JavaScript y Rust, y un estallido amarillo con llama.cpp y Ollama para la IA local." />
+<img src="assets/stack.svg" width="100%" alt="Afiche de habilidades: C#, Java, Python, TypeScript, JavaScript, Rust y LangChain, una casilla bloqueada con signos de interrogación y un estallido amarillo con llama.cpp y Ollama para la IA local." />
 </div>
 
-En las soluciones que incluyen IA trabajo con **llama.cpp** y **Ollama**.
+En las soluciones que incluyen IA trabajo con **llama.cpp** y **Ollama**, junto con **LangChain**.
 
 <div align="center">
 <img src="assets/arsenal.svg" width="100%" alt="Arsenal: cristal para la claridad, hielo para la sangre fría, arena para reintentar, castillo para la arquitectura, fantasma para depurar, bruja para los hechizos, grimorio para documentar, katana para la precisión, oni para los bugs jefe, linterna para guiar al equipo, kitsune para la astucia y alas para despegar." />
